@@ -1,0 +1,9 @@
+# For GPU on this RTX 3080 Ti machine, install torch with:
+# python -m pip install --upgrade --force-reinstall torch --index-url https://download.pytorch.org/whl/cu128
+torch
+torchvision
+opencv-python
+numpy
+scikit-learn
+tqdm
+mediapipe==0.10.14
