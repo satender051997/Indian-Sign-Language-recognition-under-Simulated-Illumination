@@ -105,23 +105,7 @@ Test accuracy (%) on the same 630 clips.
 - Lighting is simulated with `cv2.convertScaleAbs` (brightness scale 0.35 and 1.65, clipped at 255) before
   landmark extraction. It is not a recording made in real low light.
 
-## Citation
-
-If you use this code, please cite the paper. The full reference will be added here after publication.
-
-```
-S. Singh and P. Mathur, "Effect of Simulated Illumination on Skeleton-Based Indian Sign Language
-Recognition: Landmark Completeness as the Bottleneck," manuscript under review, 2026.
-```
-
-Please also cite the INCLUDE dataset:
-
-```
-A. Sridhar, R. G. Ganesan, P. Kumar, and M. M. Khapra, "INCLUDE: A Large Scale Dataset for Indian Sign
-Language Recognition," Proc. 28th ACM Int. Conf. on Multimedia (ACM MM), pp. 1366-1375, 2020.
-```
 
 ## Contact
 
-Priyanka Mathur (corresponding author): Priyanka.mathur@jaipur.manipal.edu
 Satender Singh: Satender.2410200006@muj.manipal.edu
